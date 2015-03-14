@@ -17,14 +17,14 @@ Altocloud's WooCommerce integration enables real-time predictive analytics & voi
 
 This section describes how to install the plugin and get it working.
 
-1. Login to your Wordpress site, then go to Plugins -> Add new -> Upload.
-1. Upload `woocommerce-altocloud-integration.zip` and click on `Install now`.
+1. Login to your Wordpress site, then go to Plugins > Add New > Upload Plugin.
+1. Upload `woocommerce-altocloud-integration.zip` and click on `Install Now`.
 1. Activate the plugin through the `Plugins` menu in WordPress.
 1. Configure your `Account ID` and enable `Tracking snippet` and `E-commerce extension`.
 
 == Frequently Asked Questions ==
 
-= Where can I enable and configure this plugin?
+= Where can I enable and configure this plugin? =
 
 This plugin will be added under the Integration tab in the WooCommerce > Settings menu.
 
